@@ -21,7 +21,7 @@ function yesClicked() {
     // Redirect to bash.html after a longer delay
     setTimeout(function() {
         window.location.href = "thu.html";
-    }, 3000); // Chuyển hướng sau 5 giây (5000 millisecond), bạn có thể thay đổi thời gian nếu muốn
+    }, 1000); // Chuyển hướng sau 5 giây (5000 millisecond), bạn có thể thay đổi thời gian nếu muốn
 };
 
 // -------------- When noBtn clicked --------------
